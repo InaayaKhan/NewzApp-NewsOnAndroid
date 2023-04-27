@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BreakingNews.com</string>
+    <string name="nav_open_drawer">Open</string>
+    <string name="nav_close_drawer">Close</string>
+    <string name="api_key">fa2c31ab8f924856821cd94c887879ef</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="applink">
+        <a href="#">BreakingNews.com</a>
+    </string>
+
+</resources>
